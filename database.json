@@ -1,5 +1,19 @@
 {
+  "workspace": {},
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "dyio",
+    "robotName": "CarlTheWalkingRobot",
+    "robotGitFile": "CarlTheRobot.xml",
+    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
+  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
